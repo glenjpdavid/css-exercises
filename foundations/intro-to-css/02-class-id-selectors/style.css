@@ -1,19 +1,18 @@
-p {
-    background-color: pink
+.odd {
+    background-color: rgb(255, 167, 167)
     font-family: Verdana, "DejaVu Sans" sans-serif; 
 }
 
-div.one {
-    color: blue;
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
     font-size: 36px;
 }
 
-p.two {
-    font-size: 24px;
-}
-
-div.two {
-    background-color: light green;
-    font-size: 24px;
-    weight: bold;
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
 }
